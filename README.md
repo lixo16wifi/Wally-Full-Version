@@ -240,3 +240,6 @@ This repository serves as the official landing page for Wally. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Wally today!**
+
+---
+**Last updated:** 2026-09-10 10:40:27 UTC
